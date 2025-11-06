@@ -53,7 +53,7 @@ function App() {
             style={{transition}}
           />
         </a>
-        <button id='new-quote' onClick={changeQuote} style={{backgroundColor: randomColor, transition}}>CHANGE QUOTE</button>
+        <button id='new-quote' onClick={changeQuote} style={{backgroundColor: randomColor, transition}}>CAMBIAR FRASE</button>
       </div>
     </div>
   </div>
